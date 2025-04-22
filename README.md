@@ -1,15 +1,15 @@
 # cant-sleep
 Software Engineering Project
 
-https://amlatina.contemporaryand.com/candcommissions/holding-death-close-stage-four/
+Published on OpenProcessing: https://openprocessing.org/sketch/2612316 
 
-https://openprocessing.org/sketch/2612316 
-
-Original artwork:
+*Original artwork:*
 
 The artwork I chose to base my artwork on is called holding death close by the Brazilian artist enorê. holding death close is a collection of four audiovisual pieces (30 minutes total) taking shape as a video game playthrough. Inspired by the non-linear temporality permeating video games, their narrative codes and tropes, the series reflects on themes surrounding death and identity as seen through the lens of an unreliable main character. We follow this character as they attempt to fulfil their quest in search of their memories, past and the character of Mother, treading through dream-like spaces clouded by loss and uncertainty. Their journey is slowly constructed by the various choices presented throughout the work, however, unlike the interactive nature of video games where the player decides the course of their actions, we are devoid of any agency and are left to watch as the main character chooses their own path.
 
-What i wanted to show:
+Link to video mentioned: https://amlatina.contemporaryand.com/candcommissions/holding-death-close-stage-four/
+
+*What i wanted to show:*
 
 The video was presented as one 30 minute long video at the exhibit, but upon doing my research at home, I found out it was actually divided into 4 parts; the last one, titled sleep, being the shortest at only a minute and 27 seconds long. While being the shortest, this segment of the piece had the most impact on me. What was most striking to me in this piece was the dialogue. Video game dialogues are an interesting form of media for a bit of profoundness to peek through, maybe from the creators, maybe from the computer itself. Taking into consideration the themes of the piece, I wonder if sleep in this context is a metaphor for death, or something else, a more blissful sort of rest.
 
